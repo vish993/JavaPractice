@@ -18,7 +18,7 @@ public class MultiDimChar
 		}
 		System.out.println("====================================");
 		String str="Rahul";
-		// changes by Vishal
+		// changes made by Vishal Date
 		char[] a = str.toCharArray();//char[] a={'R', 'a', 'h', 'u', 'l'}
 	
 		System.out.println("============");
