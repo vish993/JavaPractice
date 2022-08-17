@@ -7,6 +7,8 @@ public class StudySca {
 	{
 		int add=x+y;
 		System.out.println("The addition of x & y is "+add);
+		System.out.println("The addition of x & y is "+add);
+		System.out.println("The addition of x & y is "+add);
 		System.out.println("=======================");
 	}
 	public static void main(String[] args) {
